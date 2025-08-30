@@ -7,5 +7,6 @@ This repo contains deep dives into JavaScript internals, visualized and explaine
 ## 📖 Deep Dives
 - [Event Loop, Web APIs, Task Queue, Microtask Queue, and JS Engine](./event-loop/README.md)
 - [Promises in Depth](./promises/README.md)
+- [Java Script Execution Contexts](./execution-contexts/README.md)
 
 ---
